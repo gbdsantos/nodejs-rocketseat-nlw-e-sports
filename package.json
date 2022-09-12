@@ -1,5 +1,6 @@
 {
   "name": "nodejs-rocketseat-nlw-e-sports",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
@@ -11,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
   }
 }
